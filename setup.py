@@ -8,7 +8,7 @@ setup(
   author = 'René Brunner',
   author_email = 'rene.brunner@datamics.com',
   url = 'https://github.com/datamics/test',
-  download_url = 'https://github.com/datamics/test/archive/pypi-0_0_1.tar.gz',
+  download_url = 'https://github.com/datamics/test/archive/refs/tags/0.0.1.tar.gz',
   keywords = ['testing', 'easy', 'import'],
   install_requires=[
           'validators'
