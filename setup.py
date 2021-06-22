@@ -1,14 +1,14 @@
 from distutils.core import setup
 setup(
-  name = 'test',
-  packages = ['test'],
-  version = '0.01',
+  name = 'test1',
+  packages = ['test1'],
+  version = '0.0.1',
   license='MIT',
   description = 'Test easily a python import',
   author = 'René Brunner',
   author_email = 'rene.brunner@datamics.com',
-  url = 'https://github.com/datamics/test',
-  download_url = 'https://github.com/datamics/test/archive/refs/tags/0.0.1.tar.gz',
+  url = 'https://github.com/datamics/test1',
+  download_url = 'https://github.com/datamics/test1/archive/refs/tags/0.0.1.tar.gz',
   keywords = ['testing', 'easy', 'import'],
   install_requires=[
           'validators'
